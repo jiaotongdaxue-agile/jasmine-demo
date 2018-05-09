@@ -1,2 +1,5 @@
-// const fibonacci = require('./lib/fibonacci')
-// console.log(fibonacci(1));
+const fibonacci = require('./lib/fibonacci')
+const anagram = require('./lib/anagram')
+
+console.log(anagram("abcd"))
+
